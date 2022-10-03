@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-H-A-C-K-E-R
 - 👀 I’m interested in ...App Development 
-- 🌱 I’m currently learning ...Artificial Intelligence and Web Development
+- 🌱 I’m currently learning ...Cross Platform App Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...aryankumawat01@gmail.com
 
